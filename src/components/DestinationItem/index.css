@@ -1,0 +1,11 @@
+.image-container {
+  margin: 1rem;
+}
+
+.image {
+  height: 8rem;
+}
+
+li {
+  list-style-type: none;
+}
